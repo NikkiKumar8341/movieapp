@@ -1,0 +1,83 @@
+{
+    "id": "7203",
+    "name": "Taj Mahal-Abids",
+    "cloudinaryImageId": "xtxi8kws7lmnwfardw0b",
+    "locality": "Abids Road",
+    "areaName": "Koti",
+    "costForTwo": "₹300 for two",
+    "cuisines": [
+        "North Indian",
+        "Chinese",
+        "South Indian"
+    ],
+    "avgRating": 4.4,
+    "veg": true,
+    "feeDetails": {
+        "restaurantId": "7203",
+        "fees": [
+            {
+                "name": "BASE_DISTANCE",
+                "fee": 2800
+            },
+            {
+                "name": "BASE_TIME"
+            },
+            {
+                "name": "ANCILLARY_SURGE_FEE"
+            }
+        ],
+        "totalFee": 2800
+    },
+    "parentId": "924",
+    "avgRatingString": "4.4",
+    "totalRatingsString": "10K+",
+    "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 1.7,
+        "serviceability": "SERVICEABLE",
+        "slaString": "27 mins",
+        "lastMileTravelString": "1.7 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2023-08-18 23:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "30% OFF",
+        "subHeader": "UPTO ₹75",
+        "discountCalloutInfo": {
+            "message": "Free Delivery",
+            "logoCtx": {
+                "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+            }
+        }
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}

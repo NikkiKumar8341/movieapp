@@ -1,0 +1,8 @@
+//sk_test_51N4fZ2SEWY5cUsl878UnZZbkjHUSiDlYukk5h0hBNZILGOHe34lPhpxsdFYftz3ucInsgIbW8J8m9OfCGiCxoHue00Y3QWJh5T
+//coffee cup:price_1N4fiISEWY5cUsl8SJ23VcP2
+//sunglasses:price_1N5juPSEWY5cUsl8C7lvGzfs
+//camera:price_1N5jxsSEWY5cUsl8FXIo3ZLx
+//Play Station:price_1N5jzOSEWY5cUsl89VzGiQq7
+//shirt:price_1N5k1ESEWY5cUsl8YdmiwSbm
+//led tv:price_1N5k2SSEWY5cUsl8TUN8Mru1
+//5 star ac:price_1N5k3QSEWY5cUsl8kkR0TeL6
